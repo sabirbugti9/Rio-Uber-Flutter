@@ -12,7 +12,3 @@ Advanced UI has been implemented by Flutter.
 <img src="https://github.com/user-attachments/assets/02f7c8ec-8ddb-4e3c-bba2-472c28272ce3" width="250"/>
 
 
-## Authors!
-
-- [@Ehsan-abaci](https://www.github.com/Ehsan-abaci)
-- [@FarzaneMojtabavi](https://github.com/FarzaneMojtabavi)
